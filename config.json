@@ -1,0 +1,26 @@
+{
+  "format": 1,
+
+  "noticeId": 1,
+  "noticeTitle": "베타 테스트",
+  "noticeTitleEn": "Beta test",
+  "notice": "지팡이 발싸대 베타 테스트에 참여해 주셔서 고마워요!\n불편한 점이나 버그는 옵션 > 정보 > 문의하기로 알려 주세요.",
+  "noticeEn": "Thanks for joining the Wand Launcher beta!\nPlease report bugs or feedback via Options > Info > Contact Us.",
+
+  "maintenance": false,
+  "maintenanceText": "",
+  "maintenanceTextEn": "",
+
+  "minVersion": "0.9.0",
+  "latestVersion": "0.9.0",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.wandlauncher.game",
+
+  "eventName": "",
+  "eventNameEn": "",
+  "eventStart": "",
+  "eventEnd": "",
+  "eventGoldPct": 100,
+  "eventDustPct": 100,
+
+  "coupons": []
+}
