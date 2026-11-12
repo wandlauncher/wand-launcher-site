@@ -1,12 +1,12 @@
 {
-  "serverMode": "shadow",
+  "serverMode": "off",
   "format": 1,
 
-  "noticeId": 2,
-  "noticeTitle": "베타 테스트 마지막 부탁",
-  "noticeTitleEn": "One last beta request",
-  "notice": "테스트에 참여해 주셔서 정말 고마워요!\n옵션 > 정보 > [문의하기]로 재밌었던 점·답답했던 점을 한 줄만 보내 주세요.\n의견을 보내 주신 분께는 정식 출시 후 우편함으로 '마법사 10회 소환'을 보내 드려요 🎁",
-  "noticeEn": "Thank you for testing!\nPlease send a quick note via Options > Info > [Contact Us].\nEveryone who sends feedback will get 10 free Wizard Summons in the mailbox after launch 🎁",
+  "noticeId": 3,
+  "noticeTitle": "정식 출시",
+  "noticeTitleEn": "Official launch",
+  "notice": "지팡이 발싸대 정식 출시!\n찾아와 주셔서 고마워요.\n불편한 점은 옵션 > 정보 > 문의하기로 알려 주세요.",
+  "noticeEn": "Wand Launcher is officially out!\nThanks for playing.\nSend feedback via Options > Info > Contact Us.",
 
   "maintenance": false,
   "maintenanceText": "",
