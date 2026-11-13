@@ -23,5 +23,6 @@
   "eventGoldPct": 100,
   "eventDustPct": 100,
 
-  "coupons": []
+  "coupons": [],
+  "devPlayers": ["82C5-0B60-1123"]
 }
