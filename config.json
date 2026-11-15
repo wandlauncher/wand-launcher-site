@@ -2,18 +2,18 @@
   "serverMode": "off",
   "format": 1,
 
-  "noticeId": 3,
-  "noticeTitle": "정식 출시",
-  "noticeTitleEn": "Official launch",
-  "notice": "지팡이 발싸대 정식 출시!\n찾아와 주셔서 고마워요.\n불편한 점은 옵션 > 정보 > 문의하기로 알려 주세요.",
-  "noticeEn": "Wand Launcher is officially out!\nThanks for playing.\nSend feedback via Options > Info > Contact Us.",
+  "noticeId": 4,
+  "noticeTitle": "유물·난이도 조정 안내",
+  "noticeTitleEn": "Relic & difficulty update",
+  "notice": "유물: 처음부터 주던 유물이 없어지고, 업적 보상이나 마나 결정으로 얻어요. 이미 가진 유물은 그대로예요.\n유물 결정 값·등급(일반~신화)·테두리 색을 다시 정했고, 신화 유물(9장) 4종은 강해졌어요.\n난이도: 21스테이지·탑 31층부터 적이 훨씬 단단해졌어요. 깬 스테이지·보상은 그대로예요.\n잠긴 유물을 누르면 얻는 방법이 나와요.",
+  "noticeEn": "Relics: no free starter relics now - earn them from achievements or Mana Crystals. Relics you own are kept.\nRelic prices, tiers (Common~Mythic) and frame colors were reorganized; the 4 Mythic relics (Chapter 9) are stronger.\nDifficulty: much tougher enemies from stage 21 and Tower floor 31. Cleared stages are kept.\nTap a locked relic to see how to get it.",
 
   "maintenance": false,
   "maintenanceText": "",
   "maintenanceTextEn": "",
 
-  "minVersion": "0.9.0",
-  "latestVersion": "1.0.3",
+  "minVersion": "1.0.5",
+  "latestVersion": "1.0.5",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.wandlauncher.game",
 
   "eventName": "",
@@ -24,5 +24,8 @@
   "eventDustPct": 100,
 
   "coupons": [],
-  "devPlayers": ["82C5-0B60-1123"]
+  "devPlayers": ["82C5-0B60-1123"],
+  "mails": [
+    "105|-|2026-12-15|-|마법사소환:10,골드:10000|1.0.5 업데이트 선물|1.0.5 업데이트를 기념해 선물을 드려요!\n놀이터·7일 출석 소환 등 새 콘텐츠를 즐겨 주세요.\n[받기] 를 누르면 마법사 10회 소환을 바로 뽑아요.|1.0.5 Update Gift|Thanks for playing! Here is a gift for the 1.0.5 update.\nEnjoy the new Playground, 7-day summon check-in and more.\nTap Claim to do your free 10x wizard summon right away."
+  ]
 }
