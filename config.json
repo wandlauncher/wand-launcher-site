@@ -2,18 +2,17 @@
   "serverMode": "shadow",
   "format": 1,
 
-  "noticeId": 6,
-  "noticeTitle": "1.0.7 업데이트 안내",
-  "noticeTitleEn": "Update 1.0.7",
-  "notice": "시즌 패스 기간 연장: 이번 시즌이 12월 15일까지로 늘어났어요. 모은 포인트와 받은 보상은 그대로예요. (1.0.7 로 업데이트하면 적용)\n행운의 룰렛이 진짜 돌림판처럼 바뀌었어요.\n모험 탭 카드에 새 그림 · 앱 용량 줄임",
-  "noticeEn": "Season Pass extended: this season now runs until Dec 15. Your points and claimed rewards are kept. (Applies after updating to 1.0.7)\nLucky Roulette is now a real spinning wheel.\nNew Adventure tab artwork · Smaller app size",
+ "noticeTitle": "1.0.8 업데이트 안내",
+  "noticeTitleEn": "Update 1.0.8",
+  "notice": "1.0.8 업데이트를 했어요!\n· 첫 판이 빨라지고, 20스테이지를 깨면 2배속이 계속 무료\n· 새 기능 '승급 합성': 같은 등급 카드 4장으로 윗등급 마법사에 도전\n· 마법사 별 보너스 상향\n\n함께 바뀐 것\n· 유물은 업적·마나 결정으로 얻어요 (가진 유물은 그대로)\n· 21스테이지·탑 31층부터 적이 더 단단해졌어요\n자세한 내용은 우편함에서 볼 수 있어요.",
+  "noticeEn": "Update 1.0.8 is here!\n- Faster first stage; clear Stage 20 to keep 2x speed free\n- New Promotion Fusion: 4 cards of one rarity -> try for a higher-rarity mage\n- Higher star bonuses\n\nAlso changed\n- Relics now come from achievements or Mana Crystals (yours are kept)\n- Tougher enemies from Stage 21 and Tower floor 31\nSee the mailbox for details.",
 
   "maintenance": false,
   "maintenanceText": "",
   "maintenanceTextEn": "",
 
   "minVersion": "1.0.5",
-  "latestVersion": "1.0.7",
+  "latestVersion": "1.0.8",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.wandlauncher.game",
 
   "eventName": "",
@@ -26,6 +25,8 @@
   "coupons": [],
   "devPlayers": ["82C5-0B60-1123"],
   "mails": [
-    "105|-|2026-12-15|-|마법사소환:10,골드:10000|1.0.5 업데이트 선물|1.0.5 업데이트를 기념해 선물을 드려요!\n놀이터·7일 출석 소환 등 새 콘텐츠를 즐겨 주세요.\n[받기] 를 누르면 마법사 10회 소환을 바로 뽑아요.|1.0.5 Update Gift|Thanks for playing! Here is a gift for the 1.0.5 update.\nEnjoy the new Playground, 7-day summon check-in and more.\nTap Claim to do your free 10x wizard summon right away."
+    "105|-|2026-12-15|-|마법사소환:10,골드:10000|1.0.5 업데이트 선물|1.0.5 업데이트를 기념해 선물을 드려요!\n놀이터·7일 출석 소환 등 새 콘텐츠를 즐겨 주세요.\n[받기] 를 누르면 마법사 10회 소환을 바로 뽑아요.|1.0.5 Update Gift|Thanks for playing! Here is a gift for the 1.0.5 update.\nEnjoy the new Playground, 7-day summon check-in and more.\nTap Claim to do your free 10x wizard summon right away.",
+    "108|2026-11-18|2026-12-02|-|-|1.0.8 업데이트 안내|★ 첫 판이 빨라졌어요\n1스테이지 1.5배 빠르게 + 2배속 체험\n20스테이지를 깨면 2배속 계속 무료\n(광고 제거·정기권은 스테이지 3배속)\n★ 승급 합성 (마법서 > 마법사)\n같은 등급 카드 4장 → 윗등급 도전\n노말→레어 60% · 레어→에픽 45%\n에픽→유니크 30% · 유니크→레전드 15%\n레전드→신화 10% · 실패해도 같은 등급\n마법사 카드 1장\n★ 별 하나당 유니크 +8% · 레전드 +10%\n· 신화 +12%\n★ 새 몬스터: 돌격 늑대 · 분열 젤리\n★ 번개 기절 +0.25초 · 옮겨 감 +1|Update 1.0.8|- Stage 1 is 1.5x faster, free 2x trial\n- Clear Stage 20: 2x speed free for good\n  (No Ads / Pass: 3x in stages)\n- Promotion Fusion (Grimoire > Mages)\n  4 cards of one rarity -> higher rarity\n  Normal->Rare 60%, Rare->Epic 45%\n  Epic->Unique 30%, Unique->Legend 15%\n  Legend->Mythic 10%\n  On a fail: 1 card of a same-rarity mage\n- Per star: Unique +8%, Legend +10%,\n  Mythic +12%\n- New monsters: Dash Wolf, Split Jelly\n- Lightning: stun +0.25s, chain +1",
+    "109|2026-11-18|2026-12-16|-|-|유물·난이도 조정 안내|★ 유물\n처음부터 주던 유물 8개는 업적 보상이 됐어요 (마나 결정으로 먼저 열 수도 있어요).\n이미 가진 유물·강화는 모두 그대로예요.\n결정 값(150~1,200)과 등급(일반~신화)·테두리 색을 다시 정했고, 9장 신화 유물 4종이 강해졌어요.\n잠긴 유물을 누르면 얻는 방법이 나와요.\n★ 난이도\n21스테이지·탑 31층부터 적이 더 단단해졌어요. 깬 스테이지·별·보상은 그대로이고 소탕으로 계속 모을 수 있어요.\n졌을 때 결과 화면의 '전투력을 올리려면'을 따라가 보세요.|Relic & difficulty update|- Relics\nThe 8 former starter relics are now achievement rewards (or unlock early with Mana Crystals).\nRelics and upgrades you own are kept.\nPrices (150~1,200), tiers (Common~Mythic) and frames were reorganized; the 4 Chapter 9 Mythic relics are stronger.\nTap a locked relic to see how to get it.\n- Difficulty\nEnemies are tougher from Stage 21 and Tower floor 31. Cleared stages, stars and rewards are kept; keep sweeping to farm.\nAfter a loss, follow 'How to get stronger'."
   ]
 }
