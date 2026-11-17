@@ -4,13 +4,13 @@
   "noticeId": 8,
    "noticeTitle": "출시 기념 이벤트",
   "noticeTitleEn": "Launch Event",
-  "notice": "출시 기념 이벤트가 시작돼요! (11/18 ~ 12/31)\n· 오늘 미션·이벤트 미션으로 포인트를 모아 20단계 보상\n· 마법사 소환 34회 + 마지막 보상 '축제의 견습 마법사' 크리스마스 스킨 (가지고만 있어도 모든 피해 +2%)\n· [혜택] > '출시 기념 이벤트'에서 확인하세요\n\n1.0.9 새 소식\n· 새 기능이 스테이지마다 하나씩 열려요 (일부 기능은 여는 스테이지가 바뀌었어요)\n· 보조 마법사 별 능력 (★2·4·6·8·10)\n· 스테이지 선택 창 · 마법서 [합성] 탭\n· 지속 시간 카드 피해 +15%, 번개 강화",
+  "notice": "출시 기념 이벤트가 시작됐어요! (11/18 ~ 12/31)\n· 오늘 미션·이벤트 미션으로 포인트를 모아 20단계 보상\n· 마법사 소환 34회 + 마지막 보상 '축제의 견습 마법사' 크리스마스 스킨 (가지고만 있어도 모든 피해 +2%)\n· [혜택] > '출시 기념 이벤트'에서 확인하세요\n\n1.0.9 새 소식\n· 새 기능이 스테이지마다 하나씩 열려요 (일부 기능은 여는 스테이지가 바뀌었어요)\n· 보조 마법사 별 능력 (★2·4·6·8·10)\n· 스테이지 선택 창 · 마법서 [합성] 탭\n· 지속 시간 카드 피해 +15%, 번개 강화",
   "noticeEn": "The Launch Event is here! (11/18 - 12/31)\n- Earn points from daily and event missions for 20 reward tiers\n- 34 mage summons + the final reward: the 'Festive Apprentice' Christmas skin (+2% all damage just by owning it)\n- Open [Benefits] > 'Launch Event'\n\nNew in 1.0.9\n- New features unlock one per stage (some unlock stages changed)\n- Support mage star abilities (★2/4/6/8/10)\n- Stage Select, Grimoire [Fusion] tab\n- Duration cards +15% damage, stronger lightning",
   
   "maintenanceText": "",
   "maintenanceTextEn": "",
 
-  "minVersion": "1.0.5",
+  "minVersion": "1.0.9",
   "latestVersion": "1.0.9",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.wandlauncher.game",
 
