@@ -1,28 +1,26 @@
 {
   "serverMode": "shadow",
   "format": 1,
-  "noticeId": 9,
-  "noticeTitle": "1.0.10 업데이트",
-  "noticeTitleEn": "Update 1.0.10",
-  "notice": "· 장비 강화 최대 +20! +16부터 효과 2배\n  +12부터는 실패하면 한 단계 내려갈 수 있어요(광고로 방지)\n· 무료 보급 골드 150 → 10,000\n· 옵션 > 화면 '그래픽' 저·중·고 추가\n  기본 '중'은 전투 이펙트가 조금 적어요(더 부드럽게)\n  예전처럼 화려하게 보려면 '고'를 골라 주세요\n· 레이드 보스는 커지고 탄막은 작아졌어요\n· 불 마법 여러 발은 서로 다른 적을 노려요",
-  "noticeEn": "- Gear upgrades up to +20! Effects count double from +16\n  From +12 a failure may drop one level (an ad prevents it)\n- Free supply gold: 150 -> 10,000\n- New Options > Display 'Graphics': Low / Medium / High\n  Medium (default) shows slightly fewer battle effects for smoother play\n  Pick High for the full effects as before\n- Raid bosses are bigger, their bullets smaller\n- Multiple fire shots aim at different enemies",
-  
+  "noticeId": 10,
+  "noticeTitle": "1.0.11 업데이트",
+  "noticeTitleEn": "Update 1.0.11",
+  "notice": "· 출시 기념 이벤트 보상 대폭 상향 (~12/31)\n  마법사 소환 34회 → 100회 · 골드·가루·각인석도 늘었어요\n  이미 받은 단계는 [혜택] > 출시 기념 이벤트 > 보상 맨 위\n  '보상 상향 추가 지급'에서 차이만큼 받아요\n· 의견 설문에 답하면 마법사 소환 50회 (~12/31)\n  5스테이지 클리어 후 전투 탭 '설문' 아이콘\n· 원소 기술 카드 · 새 조합 9개 · 메테오·회오리 연출\n· 처음 오신 분: 2~5스테이지 '초반 여정' 선물",
+  "noticeEn": "- Launch Event rewards boosted (until 12/31)\n  Mage summons 34 -> 100, more gold, dust and stones\n  Already claimed tiers: [Benefits] > Launch Event > Rewards\n  top row 'Reward Boost Top-up' gives the difference\n- Answer the feedback survey for 50 mage summons (until 12/31)\n  'Survey' icon on the Battle tab after clearing Stage 5\n- Element Skill cards, 9 new combos, new meteor/tornado effects\n- New players: 'First Steps' gifts for Stages 2-5",
   "maintenanceText": "",
   "maintenanceTextEn": "",
-
   "minVersion": "1.0.9",
-  "latestVersion": "1.0.10",
+  "latestVersion": "1.0.11",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.wandlauncher.game",
-
   "eventName": "",
   "eventNameEn": "",
   "eventStart": "",
   "eventEnd": "",
   "eventGoldPct": 100,
   "eventDustPct": 100,
-
   "coupons": [],
-  "devPlayers": ["82C5-0B60-1123"],
+  "devPlayers": [
+    "82C5-0B60-1123"
+  ],
   "mails": [
     "105|-|2026-12-15|-|마법사소환:10,골드:10000|1.0.5 업데이트 선물|1.0.5 업데이트를 기념해 선물을 드려요!\n놀이터·7일 출석 소환 등 새 콘텐츠를 즐겨 주세요.\n[받기] 를 누르면 마법사 10회 소환을 바로 뽑아요.|1.0.5 Update Gift|Thanks for playing! Here is a gift for the 1.0.5 update.\nEnjoy the new Playground, 7-day summon check-in and more.\nTap Claim to do your free 10x wizard summon right away.",
     "108|2026-11-18|2026-12-02|-|-|1.0.8 업데이트 안내|★ 첫 판이 빨라졌어요\n1스테이지 1.5배 빠르게 + 2배속 체험\n20스테이지를 깨면 2배속 계속 무료\n(광고 제거·정기권은 스테이지 3배속)\n★ 승급 합성 (마법서 > 마법사)\n같은 등급 카드 4장 → 윗등급 도전\n노말→레어 60% · 레어→에픽 45%\n에픽→유니크 30% · 유니크→레전드 15%\n레전드→신화 10% · 실패해도 같은 등급\n마법사 카드 1장\n★ 별 하나당 유니크 +8% · 레전드 +10%\n· 신화 +12%\n★ 새 몬스터: 돌격 늑대 · 분열 젤리\n★ 번개 기절 +0.25초 · 옮겨 감 +1|Update 1.0.8|- Stage 1 is 1.5x faster, free 2x trial\n- Clear Stage 20: 2x speed free for good\n  (No Ads / Pass: 3x in stages)\n- Promotion Fusion (Grimoire > Mages)\n  4 cards of one rarity -> higher rarity\n  Normal->Rare 60%, Rare->Epic 45%\n  Epic->Unique 30%, Unique->Legend 15%\n  Legend->Mythic 10%\n  On a fail: 1 card of a same-rarity mage\n- Per star: Unique +8%, Legend +10%,\n  Mythic +12%\n- New monsters: Dash Wolf, Split Jelly\n- Lightning: stun +0.25s, chain +1",
@@ -92,5 +90,30 @@
     "59|CgkI0b7bmfMeEAIQMw",
     "60|CgkI0b7bmfMeEAIQHQ",
     "61|CgkI0b7bmfMeEAIQOA"
+  ],
+  "feedbackUrl": "https://docs.google.com/forms/d/e/1FAIpQLScOjBfB9I3iKluQZ9qrijDr052xNgq85PNaa7Kw41Jd7UHXaw/viewform",
+  "surveyId": 1,
+  "surveyStart": "2026-11-19",
+  "surveyEnd": "2026-12-31",
+  "surveyReward": "마법사 소환 50회",
+  "surveyRewardEn": "50 Mage Summons",
+  "surveyTag": "소환 50회",
+  "surveyTagEn": "50 Summons",
+  "surveyForm": "https://docs.google.com/forms/d/e/1FAIpQLScOjBfB9I3iKluQZ9qrijDr052xNgq85PNaa7Kw41Jd7UHXaw/formResponse",
+  "surveySummons": 50,
+  "surveyQs": [
+    "363759553|code|1|0|문의 코드||Contact code",
+    "1619926223|one|1|0|지금 몇 스테이지까지 깼나요?|5~10;11~20;21~30;31~45;46~60|How far have you cleared?|5-10;11-20;21-30;31-45;46-60",
+    "1684823657|one|1|0|게임을 한 지 얼마나 됐나요?|오늘 처음;2~3일;4~7일;1~2주;2주 넘게|How long have you been playing?|First day;2-3 days;4-7 days;1-2 weeks;Over 2 weeks",
+    "2022048225|scale|1|0|전체적으로 얼마나 재미있나요?|1;5;매우 지루해요;매우 재미있어요|How fun is the game overall?|1;5;Very boring;Very fun",
+    "1270375320|one|1|0|스테이지 난이도는 어땠나요?|매우 쉬움;쉬움;적당함;어려움;매우 어려움|How was the stage difficulty?|Very easy;Easy;Just right;Hard;Very hard",
+    "1488545280|one|1|0|가장 오래 막혔던(또는 지금 막힌) 구간은?|아직 막힌 적 없어요;1~5;6~10;11~20;21~30;31~45;46~60;탑;무한 도전·레이드|Where were (or are) you stuck the longest?|Never stuck yet;1-5;6-10;11-20;21-30;31-45;46-60;Tower;Endless·Raid",
+    "1110420685|one|1|0|캐릭터·장비가 강해지는 속도는?|너무 느려요;조금 느려요;적당해요;조금 빨라요;너무 빨라요|How fast do mages and gear get stronger?|Too slow;A bit slow;Just right;A bit fast;Too fast",
+    "2112905365|multi|1|3|가장 재미있는 것을 골라 주세요 (최대 3개)|스테이지 전투;강화 카드 고르기;원소 조합·최종 진화;마법사 소환·수집;장비 강화·각인;마법사의 탑;무한 도전;요일 던전;레이드;놀이터(지네·고블린·시련);출시 기념 이벤트;기타|Pick what's most fun (up to 3)|Stage battles;Picking upgrade cards;Element combos·final evolutions;Mage summons·collecting;Gear upgrades·engraving;Mage Tower;Endless Challenge;Daily Dungeon;Raid;Playground (worm·goblin·trial);Launch event;Other",
+    "1081379766|multi|0|0|아쉽거나 불편한 것을 골라 주세요 (여러 개)|재화(골드·가루·결정)가 부족해요;소환 확률이 아쉬워요;활동력이 금방 떨어져요;같은 걸 반복하는 느낌이에요;할 게 너무 많아 헷갈려요;메뉴·화면이 복잡해요;글씨·버튼이 작아요;끊김·발열·배터리;광고가 아쉬워요;튜토리얼·설명이 부족해요;딱히 없어요;기타|Pick anything that bothers you (any number)|Not enough gold·dust·crystals;Summon rates feel low;Stamina runs out fast;Feels repetitive;Too much to do, confusing;Menus·screens are cluttered;Text·buttons are small;Lag·heat·battery;Ads;Tutorial·explanations lacking;Nothing in particular;Other",
+    "55576530|scale|1|0|전투 연출·그림은 마음에 드나요?|1;5;별로예요;아주 좋아요|Do you like the battle effects and art?|1;5;Not really;Love them",
+    "1739354688|scale|1|0|친구에게 추천할 생각이 있나요?|1;5;전혀 없어요;꼭 추천할래요|Would you recommend it to a friend?|1;5;Not at all;Definitely",
+    "1569746889|text|0|0|이런 걸 해 줬으면 좋겠어요!||I'd love to see this!||바라는 기능·콘텐츠·고칠 점·하고 싶은 말 무엇이든 자유롭게 적어 주세요. (예: \"보조 마법사를 더 키우고 싶어요\", \"탑 보상을 늘려 줬으면 좋겠어요\")|Features, content, fixes, anything you want to say. (e.g. \"I want to grow support mages more\", \"Please raise Tower rewards\")",
+    "937715717|info|0|0|게임 정보 (게임이 자동으로 채워요)||Game info (filled in automatically)"
   ]
 }
