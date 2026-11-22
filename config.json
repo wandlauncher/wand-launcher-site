@@ -1,15 +1,15 @@
 {
   "serverMode": "shadow",
   "format": 1,
-  "noticeId": 11,
-  "noticeTitle": "1.0.12 업데이트",
-  "noticeTitleEn": "Update 1.0.12",
-  "notice": "· 원소 연구 각성! Lv.10·20·30 마다 새 모습·새 능력\n  (장비 탭 > 연구 · 레벨당 피해 +1%)\n· 장비는 이제 플레이로! 직접 이긴 판 장비 드롭 상향\n  장비 소환은 끝나고, 예전에 뽑은 만큼 마법사 소환권을 드려요\n· 마법사 소환권: 공짜 소환을 모아 상점 > 소환에서 사용\n· 핫타임! 11~13시 · 17~19시 · 20~22시 활동력 +30\n  (전투 탭 '핫타임' 아이콘)\n· 소탕은 하루 스테이지 10번 · 탑 3번",
-  "noticeEn": "- Research Awakening! New looks and powers at Lv.10/20/30\n  for every element (Gear > Research, +1% damage per level)\n- Gear now comes from play: more gear drops from wins\n  Gear summons end; past gear summons become Mage Summon Tickets\n- Mage Summon Tickets: save free summons, use in Shop > Summon\n- Hot Time! 11-13 / 17-19 / 20-22: +30 Energy each\n  ('Hot Time' icon on the Battle tab)\n- Sweeps: 10 stage / 3 tower per day",
+  "noticeId": 12,
+  "noticeTitle": "61스테이지 업데이트",
+  "noticeTitleEn": "Stage 61 Update",
+  "notice": "최초 60스테이지 정복자 [빈이]님 축하드립니다.\n몬스터 공격력이 모든 스테이지에서 같던 오류를 고쳤어요. 이제 스테이지가 오를수록 강해지니 성벽 레벨이 중요해요.\n추천 전투력·뒤쪽 난이도도 저희 계산 실수였어요. 바로잡았어요.\n61스테이지부터 하드보다 어려운 '심연' 난이도! (13~20장 · 100스테이지)\n장비 초월·성벽 Lv.100 으로 끝까지 키워 보세요!\n공식 디스코드 오픈 · 전용 쿠폰 → discord.gg/VfBqVJafSz",
+  "noticeEn": "Congratulations to [빈이], the first to clear stage 60!\nFixed: monster attack was the same on every stage. Monsters now get stronger as you go, so wall level matters.\nRecommended power and late difficulty were our miscalculation. Fixed.\nNew from stage 61: 'Abyss' difficulty, harder than Hard (Ch.13-20, up to stage 100)\nGrow to the end with Gear Exalt and Wall Lv.100!\nOfficial Discord + exclusive coupon → discord.gg/VfBqVJafSz",
   "maintenanceText": "",
   "maintenanceTextEn": "",
   "minVersion": "1.0.9",
-  "latestVersion": "1.0.12",
+  "latestVersion": "1.0.13",
   "hotTimes": [
     "11:00-13:00|30",
     "17:00-19:00|30",
@@ -22,7 +22,9 @@
   "eventEnd": "",
   "eventGoldPct": 100,
   "eventDustPct": 100,
-  "coupons": [],
+  "coupons": [
+    "0|5f866722f620b395a2856874a13765d1c87a704a577243bc1799df4caca3cb2b|200|30000|500|2026-11-21|-|디스코드 오픈 기념"
+  ],
   "devPlayers": [
     "82C5-0B60-1123"
   ],
@@ -30,7 +32,8 @@
     "105|-|2026-12-15|-|마법사소환:10,골드:10000|1.0.5 업데이트 선물|1.0.5 업데이트를 기념해 선물을 드려요!\n놀이터·7일 출석 소환 등 새 콘텐츠를 즐겨 주세요.\n[받기] 를 누르면 마법사 10회 소환을 바로 뽑아요.|1.0.5 Update Gift|Thanks for playing! Here is a gift for the 1.0.5 update.\nEnjoy the new Playground, 7-day summon check-in and more.\nTap Claim to do your free 10x wizard summon right away.",
     "108|2026-11-18|2026-12-02|-|-|1.0.8 업데이트 안내|★ 첫 판이 빨라졌어요\n1스테이지 1.5배 빠르게 + 2배속 체험\n20스테이지를 깨면 2배속 계속 무료\n(광고 제거·정기권은 스테이지 3배속)\n★ 승급 합성 (마법서 > 마법사)\n같은 등급 카드 4장 → 윗등급 도전\n노말→레어 60% · 레어→에픽 45%\n에픽→유니크 30% · 유니크→레전드 15%\n레전드→신화 10% · 실패해도 같은 등급\n마법사 카드 1장\n★ 별 하나당 유니크 +8% · 레전드 +10%\n· 신화 +12%\n★ 새 몬스터: 돌격 늑대 · 분열 젤리\n★ 번개 기절 +0.25초 · 옮겨 감 +1|Update 1.0.8|- Stage 1 is 1.5x faster, free 2x trial\n- Clear Stage 20: 2x speed free for good\n  (No Ads / Pass: 3x in stages)\n- Promotion Fusion (Grimoire > Mages)\n  4 cards of one rarity -> higher rarity\n  Normal->Rare 60%, Rare->Epic 45%\n  Epic->Unique 30%, Unique->Legend 15%\n  Legend->Mythic 10%\n  On a fail: 1 card of a same-rarity mage\n- Per star: Unique +8%, Legend +10%,\n  Mythic +12%\n- New monsters: Dash Wolf, Split Jelly\n- Lightning: stun +0.25s, chain +1",
     "109|2026-11-18|2026-12-16|-|-|유물·난이도 조정 안내|★ 유물\n처음부터 주던 유물 8개는 업적 보상이 됐어요 (마나 결정으로 먼저 열 수도 있어요).\n이미 가진 유물·강화는 모두 그대로예요.\n결정 값(150~1,200)과 등급(일반~신화)·테두리 색을 다시 정했고, 9장 신화 유물 4종이 강해졌어요.\n잠긴 유물을 누르면 얻는 방법이 나와요.\n★ 난이도\n21스테이지·탑 31층부터 적이 더 단단해졌어요. 깬 스테이지·별·보상은 그대로이고 소탕으로 계속 모을 수 있어요.\n졌을 때 결과 화면의 '전투력을 올리려면'을 따라가 보세요.|Relic & difficulty update|- Relics\nThe 8 former starter relics are now achievement rewards (or unlock early with Mana Crystals).\nRelics and upgrades you own are kept.\nPrices (150~1,200), tiers (Common~Mythic) and frames were reorganized; the 4 Chapter 9 Mythic relics are stronger.\nTap a locked relic to see how to get it.\n- Difficulty\nEnemies are tougher from Stage 21 and Tower floor 31. Cleared stages, stars and rewards are kept; keep sweeping to farm.\nAfter a loss, follow 'How to get stronger'.",
-    "110|2026-11-18|2026-12-31|-|-|출시 기념 이벤트 안내|★ 기간: 11/18 ~ 12/31 (끝난 뒤 3일은 받기만)\n★ 오늘 미션 5개 (날마다 새로)\n스테이지 승리·소탕 · 몬스터 처치 · 궁극기 · 탑/던전/놀이터/레이드\n★ 이벤트 미션 8개 (기간 동안 쌓임)\n처치 · 궁극기 · 스테이지 클리어 · 탑 층 · 요일 던전 · 놀이터 · 레이드 · 하드 승리\n★ 포인트 150점마다 1단계, 20단계까지\n골드 · 가루 · 각인석 · 마력 조각\n마법사 소환 3·4·5·5·7·10회 (총 34회)\n20단계: '축제의 견습 마법사' 크리스마스 스킨\n(가지고만 있어도 모든 피해 +2%)\n★ [혜택] > '출시 기념 이벤트'|Launch Event|- Period: 11/18 - 12/31 (3 more days to claim)\n- 5 daily missions (new every day)\n  stage wins/sweeps, kills, ultimates,\n  tower/dungeon/playground/raid\n- 8 event missions (add up over the event)\n- 1 tier per 150 points, up to 20 tiers\n  gold, dust, inscription stones, mana shards\n  mage summons 3/4/5/5/7/10 (34 total)\n  Tier 20: 'Festive Apprentice' Christmas skin\n  (+2% all damage just by owning it)\n- [Benefits] > 'Launch Event'"
+    "110|2026-11-18|2026-12-31|-|-|출시 기념 이벤트 안내|★ 기간: 11/18 ~ 12/31 (끝난 뒤 3일은 받기만)\n★ 오늘 미션 5개 (날마다 새로)\n스테이지 승리·소탕 · 몬스터 처치 · 궁극기 · 탑/던전/놀이터/레이드\n★ 이벤트 미션 8개 (기간 동안 쌓임)\n처치 · 궁극기 · 스테이지 클리어 · 탑 층 · 요일 던전 · 놀이터 · 레이드 · 하드 승리\n★ 포인트 150점마다 1단계, 20단계까지\n골드 · 가루 · 각인석 · 마력 조각\n마법사 소환 3·4·5·5·7·10회 (총 34회)\n20단계: '축제의 견습 마법사' 크리스마스 스킨\n(가지고만 있어도 모든 피해 +2%)\n★ [혜택] > '출시 기념 이벤트'|Launch Event|- Period: 11/18 - 12/31 (3 more days to claim)\n- 5 daily missions (new every day)\n  stage wins/sweeps, kills, ultimates,\n  tower/dungeon/playground/raid\n- 8 event missions (add up over the event)\n- 1 tier per 150 points, up to 20 tiers\n  gold, dust, inscription stones, mana shards\n  mage summons 3/4/5/5/7/10 (34 total)\n  Tier 20: 'Festive Apprentice' Christmas skin\n  (+2% all damage just by owning it)\n- [Benefits] > 'Launch Event'",
+    "120|-|-|629a7dd3645c2d24|테두리:12,결정:300|세계 최초 60스테이지 정복 기념|처음으로 60스테이지를 정복하신 것을 축하드려요!\n오직 한 분께만 드리는 한정 테두리 '최초의 정복자' 와\n칭호 '세계 최초의 정복자' 를 보내 드려요.\n프로필 > 테두리에서 장착할 수 있어요.\n소중한 의견도 정말 감사합니다.|World's First Stage 60 Clear|Congratulations on being the first to clear stage 60!\nHere is the one-of-a-kind frame 'First Conqueror'\nand the title 'World's First Conqueror'.\nEquip it in Profile > Frames.\nThank you so much for your feedback."
   ],
   "achievements": [
     "0|CgkI0b7bmfMeEAIQCA",
@@ -120,5 +123,8 @@
     "1739354688|scale|1|0|친구에게 추천할 생각이 있나요?|1;5;전혀 없어요;꼭 추천할래요|Would you recommend it to a friend?|1;5;Not at all;Definitely",
     "1569746889|text|0|0|이런 걸 해 줬으면 좋겠어요!||I'd love to see this!||바라는 기능·콘텐츠·고칠 점·하고 싶은 말 무엇이든 자유롭게 적어 주세요. (예: \"보조 마법사를 더 키우고 싶어요\", \"탑 보상을 늘려 줬으면 좋겠어요\")|Features, content, fixes, anything you want to say. (e.g. \"I want to grow support mages more\", \"Please raise Tower rewards\")",
     "937715717|info|0|0|게임 정보 (게임이 자동으로 채워요)||Game info (filled in automatically)"
+  ],
+  "hallOfFame": [
+    "2026-11-20|빈이|처음으로 60스테이지 정복|First to clear stage 60|12"
   ]
 }
