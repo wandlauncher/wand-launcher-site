@@ -1,15 +1,15 @@
 {
   "serverMode": "shadow",
   "format": 1,
-  "noticeId": 12,
-  "noticeTitle": "61스테이지 업데이트",
-  "noticeTitleEn": "Stage 61 Update",
-  "notice": "최초 60스테이지 정복자 [빈이]님 축하드립니다.\n몬스터 공격력이 모든 스테이지에서 같던 오류를 고쳤어요. 이제 스테이지가 오를수록 강해지니 성벽 레벨이 중요해요.\n추천 전투력·뒤쪽 난이도도 저희 계산 실수였어요. 바로잡았어요.\n61스테이지부터 하드보다 어려운 '심연' 난이도! (13~20장 · 100스테이지)\n장비 초월·성벽 Lv.100 으로 끝까지 키워 보세요!\n공식 디스코드 오픈 · 전용 쿠폰 → discord.gg/VfBqVJafSz",
-  "noticeEn": "Congratulations to [빈이], the first to clear stage 60!\nFixed: monster attack was the same on every stage. Monsters now get stronger as you go, so wall level matters.\nRecommended power and late difficulty were our miscalculation. Fixed.\nNew from stage 61: 'Abyss' difficulty, harder than Hard (Ch.13-20, up to stage 100)\nGrow to the end with Gear Exalt and Wall Lv.100!\nOfficial Discord + exclusive coupon → discord.gg/VfBqVJafSz",
+  "noticeId": 13,
+  "noticeTitle": "탑·무한 도전·스테이지 조정 안내",
+  "noticeTitleEn": "Tower, Endless & Stage adjustment",
+  "notice": "적을 계속 얼려 묶어 두면 시간 제한 없이 탑·무한 도전·\n61스테이지 이후를 깰 수 있는 오류가 있었어요.\n저희 실수입니다. 죄송합니다.\n\n· 탑·무한 도전: 이미 깬 층과 보상은 그대로\n· 61스테이지 이후: 오류로 얻은 진행이라 60으로 되돌리고\n  그 구간 첫 클리어 결정·골드만 회수 (결제 결정은 그대로)\n· 사과의 뜻으로 우편으로 마나 결정 500개\n\n· 같은 적이 3번 얼면 10초 동안 얼지 않아요\n· 75초 넘게 살아남은 적은 '광폭' (탑·무한 도전·21스테이지부터)\n· 궁극기는 15초에 한 번 · 충전 속도 최대 3배\n· 무한 도전 라운드마다 체력 상승폭 증가",
+  "noticeEn": "Keeping enemies frozen let the Tower, Endless and stages 61+\nbe cleared with no time limit. This was our mistake. Sorry!\n\n- Tower/Endless: cleared floors and rewards stay\n- Stages 61+: progress from the bug is reset to stage 60, and only\n  first-clear crystals/gold from that range are taken back (paid crystals stay)\n- 500 Mana Crystals are in your mailbox as an apology\n\n- An enemy frozen 3 times can't be frozen for 10s\n- Enemies alive over 75s become Enraged (Tower, Endless, stage 21+)\n- Ultimate: once per 15s · charge speed capped at 3x\n- Endless rounds now scale up faster",
   "maintenanceText": "",
   "maintenanceTextEn": "",
-  "minVersion": "1.0.13",
-  "latestVersion": "1.0.13",
+  "minVersion": "1.0.14",
+  "latestVersion": "1.0.14",
   "hotTimes": [
     "11:00-13:00|30",
     "17:00-19:00|30",
@@ -31,7 +31,8 @@
     "108|2026-11-18|2026-12-02|-|-|1.0.8 업데이트 안내|★ 첫 판이 빨라졌어요\n1스테이지 1.5배 빠르게 + 2배속 체험\n20스테이지를 깨면 2배속 계속 무료\n(광고 제거·정기권은 스테이지 3배속)\n★ 승급 합성 (마법서 > 마법사)\n같은 등급 카드 4장 → 윗등급 도전\n노말→레어 60% · 레어→에픽 45%\n에픽→유니크 30% · 유니크→레전드 15%\n레전드→신화 10% · 실패해도 같은 등급\n마법사 카드 1장\n★ 별 하나당 유니크 +8% · 레전드 +10%\n· 신화 +12%\n★ 새 몬스터: 돌격 늑대 · 분열 젤리\n★ 번개 기절 +0.25초 · 옮겨 감 +1|Update 1.0.8|- Stage 1 is 1.5x faster, free 2x trial\n- Clear Stage 20: 2x speed free for good\n  (No Ads / Pass: 3x in stages)\n- Promotion Fusion (Grimoire > Mages)\n  4 cards of one rarity -> higher rarity\n  Normal->Rare 60%, Rare->Epic 45%\n  Epic->Unique 30%, Unique->Legend 15%\n  Legend->Mythic 10%\n  On a fail: 1 card of a same-rarity mage\n- Per star: Unique +8%, Legend +10%,\n  Mythic +12%\n- New monsters: Dash Wolf, Split Jelly\n- Lightning: stun +0.25s, chain +1",
     "109|2026-11-18|2026-12-16|-|-|유물·난이도 조정 안내|★ 유물\n처음부터 주던 유물 8개는 업적 보상이 됐어요 (마나 결정으로 먼저 열 수도 있어요).\n이미 가진 유물·강화는 모두 그대로예요.\n결정 값(150~1,200)과 등급(일반~신화)·테두리 색을 다시 정했고, 9장 신화 유물 4종이 강해졌어요.\n잠긴 유물을 누르면 얻는 방법이 나와요.\n★ 난이도\n21스테이지·탑 31층부터 적이 더 단단해졌어요. 깬 스테이지·별·보상은 그대로이고 소탕으로 계속 모을 수 있어요.\n졌을 때 결과 화면의 '전투력을 올리려면'을 따라가 보세요.|Relic & difficulty update|- Relics\nThe 8 former starter relics are now achievement rewards (or unlock early with Mana Crystals).\nRelics and upgrades you own are kept.\nPrices (150~1,200), tiers (Common~Mythic) and frames were reorganized; the 4 Chapter 9 Mythic relics are stronger.\nTap a locked relic to see how to get it.\n- Difficulty\nEnemies are tougher from Stage 21 and Tower floor 31. Cleared stages, stars and rewards are kept; keep sweeping to farm.\nAfter a loss, follow 'How to get stronger'.",
     "110|2026-11-18|2026-12-31|-|-|출시 기념 이벤트 안내|★ 기간: 11/18 ~ 12/31 (끝난 뒤 3일은 받기만)\n★ 오늘 미션 5개 (날마다 새로)\n스테이지 승리·소탕 · 몬스터 처치 · 궁극기 · 탑/던전/놀이터/레이드\n★ 이벤트 미션 8개 (기간 동안 쌓임)\n처치 · 궁극기 · 스테이지 클리어 · 탑 층 · 요일 던전 · 놀이터 · 레이드 · 하드 승리\n★ 포인트 150점마다 1단계, 20단계까지\n골드 · 가루 · 각인석 · 마력 조각\n마법사 소환 3·4·5·5·7·10회 (총 34회)\n20단계: '축제의 견습 마법사' 크리스마스 스킨\n(가지고만 있어도 모든 피해 +2%)\n★ [혜택] > '출시 기념 이벤트'|Launch Event|- Period: 11/18 - 12/31 (3 more days to claim)\n- 5 daily missions (new every day)\n  stage wins/sweeps, kills, ultimates,\n  tower/dungeon/playground/raid\n- 8 event missions (add up over the event)\n- 1 tier per 150 points, up to 20 tiers\n  gold, dust, inscription stones, mana shards\n  mage summons 3/4/5/5/7/10 (34 total)\n  Tier 20: 'Festive Apprentice' Christmas skin\n  (+2% all damage just by owning it)\n- [Benefits] > 'Launch Event'",
-    "120|-|-|629a7dd3645c2d24|테두리:12,결정:300|세계 최초 60스테이지 정복 기념|처음으로 60스테이지를 정복하신 것을 축하드려요!\n오직 한 분께만 드리는 한정 테두리 '최초의 정복자' 와\n칭호 '세계 최초의 정복자' 를 보내 드려요.\n프로필 > 테두리에서 장착할 수 있어요.\n소중한 의견도 정말 감사합니다.|World's First Stage 60 Clear|Congratulations on being the first to clear stage 60!\nHere is the one-of-a-kind frame 'First Conqueror'\nand the title 'World's First Conqueror'.\nEquip it in Profile > Frames.\nThank you so much for your feedback."
+    "120|-|-|629a7dd3645c2d24|테두리:12,결정:300|세계 최초 60스테이지 정복 기념|처음으로 60스테이지를 정복하신 것을 축하드려요!\n오직 한 분께만 드리는 한정 테두리 '최초의 정복자' 와\n칭호 '세계 최초의 정복자' 를 보내 드려요.\n프로필 > 테두리에서 장착할 수 있어요.\n소중한 의견도 정말 감사합니다.|World's First Stage 60 Clear|Congratulations on being the first to clear stage 60!\nHere is the one-of-a-kind frame 'First Conqueror'\nand the title 'World's First Conqueror'.\nEquip it in Profile > Frames.\nThank you so much for your feedback.",
+    "121|-|2026-12-31|-|결정:500|탑·무한 도전 조정 사과 보상|의도치 않은 플레이 방식으로 탑을 클리어할 수 있었던 문제를 바로잡았어요.\n저희 실수입니다. 마나 결정 500개를 드려요.|Tower & Endless fix apology|We fixed an issue that let the Tower be cleared in an unintended way.\nThat was our mistake. Please accept 500 Mana Crystals."
   ],
   "achievements": [
     "0|CgkI0b7bmfMeEAIQCA",
