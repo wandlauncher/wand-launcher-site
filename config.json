@@ -1,6 +1,6 @@
 {
   "serverMode": "shadow",
-  "serverMode2": "on",
+  "serverMode2": "shadow",
   "serverOnPct": 100,
   "format": 1,
   "noticeId": 14,
@@ -10,8 +10,8 @@
   "noticeEn": "Rolling out on the store now.\n\n- Skin shop: skins for all 24 mages\n- 19 new rare gear (always Legendary+)\n- Drop table: gear and grade odds per stage\n- Quit Tower/Endless/Dungeon/Raid early and keep rewards\n- 2x speed for all, stage 3x via ad or Remove Ads\n- Duplicate gear gives +1 shard, missing starter gear fixed\n\n* Mana Crystals are now safely recorded on our server.\nSpending them needs a Play Games sign-in and internet.\n(Options > Save to sign in)",
   "maintenanceText": "",
   "maintenanceTextEn": "",
-  "minVersion": "1.0.14",
-  "latestVersion": "1.0.14",
+  "minVersion": "1.0.15",
+  "latestVersion": "1.0.15",
   "hotTimes": [
     "11:00-13:00|30",
     "17:00-19:00|30",
