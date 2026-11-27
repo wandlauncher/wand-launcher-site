@@ -1,6 +1,6 @@
 {
   "serverMode": "shadow",
-  "serverMode2": "shadow",
+  "serverMode2": "on",
   "serverOnPct": 100,
   "format": 1,
   "noticeId": 14,
