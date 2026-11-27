@@ -12,6 +12,13 @@
   "maintenanceTextEn": "",
   "minVersion": "1.0.15",
   "latestVersion": "1.0.15",
+  "miniEventId": 1,
+  "miniEventStart": "2026-11-27",
+  "miniEventEnd": "2026-12-10",
+  "miniGames": "ski",
+  "miniEventName": "겨울 눈썰매 축제",
+  "miniEventNameEn": "Winter Sled Festival",
+  "leaderboardMiniSki": "",
   "hotTimes": [
     "11:00-13:00|30",
     "17:00-19:00|30",
